@@ -9,7 +9,7 @@ public class Ex06 {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Informe o valor do raio em cm:");
 		float raio = scan.nextFloat();
-		System.out.println("A circunferência é de " + (2 * raio * Math.PI)+"cm");
+		System.out.println("A circunferência é de " + (Math.PI * Math.pow(raio, 2))+"cm");
 		scan.close();
 		
 	}
