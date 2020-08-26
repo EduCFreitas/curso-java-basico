@@ -59,7 +59,7 @@ public class Ex23 {
 		valorPagar = precoTotal - valorDesconto;
 		
 		System.out.println("\nTipo de carne: " + tipoCarne);
-		System.out.println("Quantidade: " + tipoCarne + "kg");
+		System.out.println("Quantidade: " + qtdCarne + "kg");
 		System.out.println("Valor total: R$" + precoTotal);
 		System.out.println("Tipo de pagamento: " + tipoPgto);
 		System.out.println("Valor do desconto: R$" + valorDesconto);
