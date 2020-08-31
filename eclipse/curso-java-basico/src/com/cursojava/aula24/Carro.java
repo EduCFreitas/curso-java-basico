@@ -7,4 +7,5 @@ public class Carro {
 	int numPassageiros;
 	double capCombustivel;
 	double consumoCombustivel;
+	
 }
