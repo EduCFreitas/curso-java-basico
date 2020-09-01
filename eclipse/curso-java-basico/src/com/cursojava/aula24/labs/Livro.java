@@ -7,4 +7,5 @@ public class Livro {
 	int qtdPaginas;
 	int anoLancamento;
 	String isbn;
+	
 }

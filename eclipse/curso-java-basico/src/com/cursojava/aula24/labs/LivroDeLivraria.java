@@ -8,4 +8,5 @@ public class LivroDeLivraria {
 	int anoLancamento;
 	String isbn;
 	double preco;
+	
 }

@@ -15,7 +15,6 @@ public class Ex04 {
 		livro.emprestadoA = "Eduardo";
 		
 		System.out.println("Nome do livro = " + livro.nome);
-
 	}
 
 }

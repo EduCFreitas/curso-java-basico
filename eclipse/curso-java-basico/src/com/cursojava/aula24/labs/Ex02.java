@@ -10,7 +10,6 @@ public class Ex02 {
 		livro.anoLancamento = 2018;
 		
 		System.out.println("Nome do livro = " + livro.nome);
-		
 	}
 
 }

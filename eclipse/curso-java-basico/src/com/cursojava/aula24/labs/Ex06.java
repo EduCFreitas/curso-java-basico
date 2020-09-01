@@ -11,7 +11,6 @@ public class Ex06 {
 		contato.telefones = new String[2];
 		contato.telefones[0] = "11 99999-9999";
 		contato.telefones[1] = "11 99999-9990";
-
 	}
 
 }

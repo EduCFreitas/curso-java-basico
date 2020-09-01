@@ -11,7 +11,6 @@ public class Ex03 {
 		livro.preco = 55.89;
 		
 		System.out.println("Nome do livro = " + livro.nome);
-
 	}
 
 }

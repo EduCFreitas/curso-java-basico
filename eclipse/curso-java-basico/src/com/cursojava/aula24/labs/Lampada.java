@@ -9,4 +9,5 @@ public class Lampada {
 	String tipoLuz;
 	int garantiaMeses;
 	String[] tipos;
+	
 }

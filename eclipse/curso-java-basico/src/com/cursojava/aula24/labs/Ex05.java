@@ -12,7 +12,6 @@ public class Ex05 {
 		conta.saldo = 1000;
 		
 		System.out.println("Saldo da conta " + conta.numero + " = " + conta.saldo);
-
 	}
 
 }

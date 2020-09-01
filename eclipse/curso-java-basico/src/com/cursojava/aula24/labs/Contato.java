@@ -6,4 +6,5 @@ public class Contato {
 	String email;
 	String endereco;
 	String[] telefones;
+	
 }
