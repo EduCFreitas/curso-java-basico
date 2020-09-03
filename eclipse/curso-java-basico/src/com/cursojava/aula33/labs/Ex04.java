@@ -1,4 +1,4 @@
-package com.cursojava.aula27.labs;
+package com.cursojava.aula33.labs;
 
 import java.util.Scanner;
 
@@ -44,13 +44,14 @@ public class Ex04 {
 			}else if(jogo.verificarGanhador('O')) {
 				ganhou = true;
 				System.out.println("Parabéns, jogador 2 ganhou");
-			}else if(jogo.jogada>9){
+			}else if(jogo.getJogada()>9){
 				System.out.println("Deu velha! Ninguém ganhou!");
 			}
 			
 		}
 
 		scan.close();
+
 	}
 	
 	static int valor(String tipoValor, Scanner scan) {
