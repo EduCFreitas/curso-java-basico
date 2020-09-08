@@ -1,6 +1,6 @@
 package com.cursojava.aula48;
 
-public class MultipleCatchJava7 {
+public class MultiplosCatchJava7 {
 
 	public static void main(String[] args) {
 		
